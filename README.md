@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello World, I'm [Aneesh](https://en-audio.howtopronounce.com/0784b1246bc5e0dcc5fb17f410eef32c.mp3)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AnishAngadi?label=Follow)](https://twitter.com/intent/user?screen_name=AnishAngadi) •
-[![Linkedin: Aneesh Angadi](https://img.shields.io/badge/-Aneesh%20Angadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aneesh-angadi-745a98a4)][linkedin] •
+[![Twitter Follow](https://img.shields.io/twitter/follow/AnishAngadi?label=Follow)](https://twitter.com/intent/user?screen_name=AnishAngadi) &bull;
+[![Linkedin: Aneesh Angadi](https://img.shields.io/badge/-Aneesh%20Angadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aneesh-angadi-745a98a4)][linkedin] &bull;
 ![Profile views](https://gpvc.arturio.dev/AneeshAngadi)
 
 <a href="https://www.credential.net/e7147498-4747-472f-b6cf-364e64204c73">
@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on ML projects
 - 🤔 I’m looking for help with ML model deployment
 - 💬 Ask me about Tensorflow, Python and JavaScript
-- 📫 How to reach me: [<img width="22px" style="margin-right:5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter][<img width="22px" style="margin-right:5px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 📫 How to reach me: [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] • [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] • [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to solve complex math problems
 
