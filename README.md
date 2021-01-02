@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on ML projects
 - 🤔 I’m looking for help with ML model deployment
 - 💬 Ask me about Tensorflow, Python and JavaScript
-- 📫 How to reach me: [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] • [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] • [<img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 📫 How to reach me: [Linkedin][linkedin] • [Instagram][instagram] • [Twitter][twitter]
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to solve complex math problems
 
