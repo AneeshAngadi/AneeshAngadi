@@ -21,7 +21,7 @@
 [![Spotify](https://github-readme.aneeshangadi.vercel.app/api/spotify)](https://open.spotify.com/user/aneeshangadi)
 
 ### Things I code with:
-
+<p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
@@ -39,8 +39,8 @@
 <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" />
 <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+</p>
 
-<br />
 <br />
 
 <details align="left">
