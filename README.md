@@ -49,7 +49,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AneeshAngadi&layout=compact" />
 </details>
 
-### Todoist Stats
+<details align="left">
+  <summary>Todoist Stats 📊:</summary>
 
 <!-- TODO-IST:START -->
 🏆  200 Karma Points           
@@ -57,6 +58,8 @@
 ✅  Completed 0 tasks so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
+
+</details>
 
 [twitter]: https://twitter.com/AnishAngadi
 [project]: https://github.com/AneeshAngadi/mcx-gold-price-prediction
