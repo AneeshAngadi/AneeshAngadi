@@ -1,7 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hello World, I'm [Aneesh](https://en-audio.howtopronounce.com/0784b1246bc5e0dcc5fb17f410eef32c.mp3)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AnishAngadi?label=Follow)](https://twitter.com/intent/user?screen_name=AnishAngadi) |
-[![Linkedin: Aneesh Angadi](https://img.shields.io/badge/-Aneesh%20Angadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aneesh-angadi-745a98a4)][linkedin] |
+[![Twitter Follow](https://img.shields.io/twitter/follow/AnishAngadi?label=Follow)](https://twitter.com/intent/user?screen_name=AnishAngadi) [![Linkedin: Aneesh Angadi](https://img.shields.io/badge/-Aneesh%20Angadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aneesh-angadi-745a98a4)][linkedin]
 ![Profile views](https://gpvc.arturio.dev/AneeshAngadi)
 
 <a href="https://www.credential.net/e7147498-4747-472f-b6cf-364e64204c73">
